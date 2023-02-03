@@ -1,0 +1,3 @@
+# Nintendo Game Sales Analysis
+
+After using my Wii and nostagically thinking of all the games I used to play on my Game Boy, I became interested in Nintendo game popularity. Explicitly, I started scraping Wiki tables and used SQL to individually analyze sales for Nintendos highest grossing consoles: Nintendo DS, Wii, Game Boy, leveraging Seaborn/Matplotlib to visualize KPIs like overall sales, sales by genre, sales by console, and sales by developer. Finally I used SQL joins to create a comprehensive database that compared Nintendo console sales to a Wikipedia table listing the best selling viedo games of all time.
